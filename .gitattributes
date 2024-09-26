@@ -1,0 +1,4 @@
+3rdparty/jetson/compute/lib/aarch64/libcublas.so.11.6.6.84 filter=lfs diff=lfs merge=lfs -text
+3rdparty/jetson/compute/lib/aarch64/libcublasLt.so.11.6.6.84 filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+3rdparty/jetson/compute/lib/aarch64/libcudnn_cnn_infer.so.8.6.0 filter=lfs diff=lfs merge=lfs -text
